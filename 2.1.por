@@ -14,5 +14,8 @@ se (numero1 > numero2){
 se (numero2 > numero1){
   escreva ("O número ",numero2," é o maior")
 }
+senao{
+  escreva("Os números são iguais")
+}
   }
 }

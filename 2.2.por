@@ -15,6 +15,4 @@ senao se (numero==0){
   escreva("Este é o número 0")
   }
 }
-
   }
-} 

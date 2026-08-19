@@ -4,7 +4,7 @@ programa {
     real media,n1,n2
     cadeia res = "S"
 
-    enquanto(res == "S"){
+    enquanto(res == "S" ou resposta == "s"){
       escreva("\nDigite a primeira nota: ")
       leia(n1)
 

@@ -5,7 +5,7 @@ programa {
     cadeia res = "S"
 
     enquanto(res == "S"){
-      escreva("Digite a primeira nota: ")
+      escreva("\nDigite a primeira nota: ")
       leia(n1)
 
       escreva("Digite a segunda nota: ")
